@@ -1,5 +1,0 @@
-Notes för inlUppgift1
-
-df["price"].max()
-bil = df.loc[df["price"] == df["price"].max()]
-df.nlargest(1, "price")[["company", "price"]]
