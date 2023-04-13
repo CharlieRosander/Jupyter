@@ -1,2 +1,2 @@
-cd C:\Users\Kaliber\Desktop\AI-Developer-Jensen\Python-fortsattningskurs\Jupyter
+cd C:\Users\charl\Desktop\AI-Developer-Jensen\Jupyter
 jupyter notebook
